@@ -1,4 +1,4 @@
-# 🧩 Rubik Cube Solver
+# Rubik Cube Solver
 
 An efficient and optimized Rubik Cube Solver built in **C++** using advanced search techniques and pattern databases to solve cube configurations intelligently.
 
@@ -6,7 +6,7 @@ This project focuses on solving the Rubik’s Cube programmatically while explor
 
 ---
 
-# 🚀 Why I Built This
+# Why I Built This
 
 I wanted to challenge myself with a project that combines:
 - complex problem solving
@@ -25,7 +25,7 @@ I also wanted hands-on experience working with modular C++ codebases and perform
 
 ---
 
-# ✨ Features
+# Features
 
 ✅ Rubik Cube state representation  
 ✅ Efficient move generation system  
@@ -37,7 +37,7 @@ I also wanted hands-on experience working with modular C++ codebases and perform
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 I used this project to explore low-level optimization and algorithmic problem solving using:
 
@@ -57,7 +57,7 @@ I used this project to explore low-level optimization and algorithmic problem so
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 Rubik_Cube_Solver/
@@ -73,7 +73,7 @@ Rubik_Cube_Solver/
 
 ---
 
-# ⚙️ How to Run It
+# How to Run It
 
 ## Prerequisites
 
@@ -83,7 +83,7 @@ Make sure you have:
 
 ---
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/Tammana17/Rubik_Cube_Solver.git
@@ -91,7 +91,7 @@ git clone https://github.com/Tammana17/Rubik_Cube_Solver.git
 
 ---
 
-## 2️⃣ Open Project
+## 2️ Open Project
 
 Open the project in:
 - VS Code
@@ -100,7 +100,7 @@ Open the project in:
 
 ---
 
-## 3️⃣ Build the Project
+## 3️ Build the Project
 
 ```bash
 cmake .
@@ -109,7 +109,7 @@ make
 
 ---
 
-## 4️⃣ Run the Solver
+## 4️ Run the Solver
 
 ```bash
 ./RubikCubeSolver
@@ -117,7 +117,7 @@ make
 
 ---
 
-# 🧠 Concepts Used
+# Concepts Used
 
 This project involves several important computer science concepts:
 
@@ -131,7 +131,7 @@ This project involves several important computer science concepts:
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - Interactive GUI
 - 3D Cube Visualization
