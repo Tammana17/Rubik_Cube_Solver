@@ -141,22 +141,27 @@ This project involves several important computer science concepts:
 - Custom cube input system
 
 ---
-### Scrambled Cube Input and Solution Sequence
+## Scrambled Cube Input and Solution Sequence
 
-Rubik's Cube:
+### Scrambled Cube
 
-       B O W 
-       G W Y 
-       R W W 
+```text
+    B O W
+    G W Y
+    R W W
 
-O R Y  B O R  B R O  G B Y 
-B G W  B R R  B B G  O O Y 
-G G G  R O O  G G B  W R R 
+O R Y  B O R  B R O  G B Y
+B G W  B R R  B B G  O O Y
+G G G  R O O  G G B  W R R
 
-       Y Y Y 
-       W Y Y 
-       W W O 
+    Y Y Y
+    W Y Y
+    W W O
+```
 
+### Generated Solution
+
+```text
 U2 D2 L2 L U2 L U2 B2 L F' F2 U F'
-
+```
 
